@@ -1,5 +1,4 @@
 import React, { FC, useMemo, useState } from 'react'
-import '../index.css'
 
 type DataEntity = {
   name: string
